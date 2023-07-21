@@ -1,12 +1,36 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Massive MIMO Channel Estimation taking into account spherical waves
-date: '2019-07-01'
-draft: true
-publishDate: '2023-07-18T07:38:59.840467Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
 - Antoine Le Calvez
 - Stéphane Paquelet
+tags:
+- MIMO;physical models;channel estimation
+categories: []
+date: '2019-07-01'
+lastmod: 2023-07-21T09:42:17+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:42:16.479094Z'
 publication_types:
 - '1'
 abstract: Massive multiple-input multiple-output (MIMO) systems are key technological
@@ -18,11 +42,7 @@ abstract: Massive multiple-input multiple-output (MIMO) systems are key technolo
   the SWM. The validity domains of those three physical models are assessed and estimation
   algorithms for the SWM and ParWM are proposed, showing a promising performance complexity
   trade-off.
-featured: false
 publication: '*2019 IEEE 20th International Workshop on Signal Processing Advances
   in Wireless Communications (SPAWC)*'
-tags:
-- MIMO;physical models;channel estimation
 doi: 10.1109/SPAWC.2019.8815472
 ---
-

@@ -1,11 +1,37 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'mpNet: Variable Depth Unfolded Neural Network for Massive MIMO Channel Estimation'
-date: '2022-07-01'
-draft: true
-publishDate: '2023-07-18T07:38:43.588999Z'
+subtitle: ''
+summary: ''
 authors:
 - Taha Yassine
 - Luc Le Magoarou
+tags:
+- Channel estimation;Neural networks;Manifolds;Signal to noise ratio;Matching pursuit
+  algorithms;Estimation;Analytical models;MIMO channel estimation;sparse recovery;matching
+  pursuit (MP);neural network;deep unfolding;online learning;unsupervised learning
+categories: []
+date: '2022-07-01'
+lastmod: 2023-07-21T09:41:43+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:42.048192Z'
 publication_types:
 - '2'
 abstract: Massive multiple-input multiple-output (MIMO) communication systems have
@@ -25,12 +51,6 @@ abstract: Massive multiple-input multiple-output (MIMO) communication systems ha
   with a perfectly calibrated system. It also allows incident detection and automatic
   correction, making the BS resilient and able to automatically adapt to changes in
   its environment.
-featured: false
 publication: '*IEEE Transactions on Wireless Communications*'
-tags:
-- Channel estimation;Neural networks;Manifolds;Signal to noise ratio;Matching pursuit
-  algorithms;Estimation;Analytical models;MIMO channel estimation;sparse recovery;matching
-  pursuit (MP);neural network;deep unfolding;online learning;unsupervised learning
 doi: 10.1109/TWC.2022.3142737
 ---
-

@@ -1,15 +1,41 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Maximum likelihood estimation of clutter subspace in non homogeneous noise
   context
-date: '2013-09-01'
-draft: true
-publishDate: '2023-07-18T07:38:53.252955Z'
+subtitle: ''
+summary: ''
 authors:
 - A. Breloy
 - L. Le Magoarou
 - G. Ginolhac
 - F. Pascal
 - P. Forster
+tags:
+- Clutter;Maximum likelihood estimation;Gaussian noise;Covariance matrices;Signal
+  to noise ratio;Covariance Matrix and Projector estimation;Maximum Likelihood Estimator;Low-Rank
+  clutter;SIRV;STAP filter
+categories: []
+date: '2013-09-01'
+lastmod: 2023-07-21T09:42:03+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:42:02.239676Z'
 publication_types:
 - '1'
 abstract: In the context of a disturbance composed of a Low Rank (LR) clutter plus
@@ -22,11 +48,5 @@ abstract: In the context of a disturbance composed of a Low Rank (LR) clutter pl
   Gaussian noise that does not require prior information on the SIRV's texture. Numerical
   simulations validate the introduced estimator, and its performance and robustness
   are tested on a Space Time Adaptive Processing (STAP) simulation.
-featured: false
 publication: '*2013 21st European Signal Processing Conference (EUSIPCO)*'
-tags:
-- Clutter;Maximum likelihood estimation;Gaussian noise;Covariance matrices;Signal
-  to noise ratio;Covariance Matrix and Projector estimation;Maximum Likelihood Estimator;Low-Rank
-  clutter;SIRV;STAP filter
 ---
-

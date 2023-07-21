@@ -1,10 +1,36 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Efficient Channel Charting via Phase-Insensitive Distance Computation
-date: '2021-12-01'
-draft: true
-publishDate: '2023-07-18T07:38:44.292371Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
+tags:
+- Task analysis;Fading channels;Dimensionality reduction;MIMO communication;Euclidean
+  distance;Base stations;Uplink;Channel charting;dimensionality reduction;MIMO signal
+  processing;machine learning
+categories: []
+date: '2021-12-01'
+lastmod: 2023-07-21T09:41:44+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:43.487886Z'
 publication_types:
 - '2'
 abstract: Channel charting is an unsupervised learning task whose objective is to
@@ -17,12 +43,6 @@ abstract: Channel charting is an unsupervised learning task whose objective is t
   local distances (Isomap) is then applied to actually get the channel representation.
   The approach is empirically validated on realistic synthetic multipath MIMO channels,
   achieving better results than previously proposed approaches, at a lower cost.
-featured: false
 publication: '*IEEE Wireless Communications Letters*'
-tags:
-- Task analysis;Fading channels;Dimensionality reduction;MIMO communication;Euclidean
-  distance;Base stations;Uplink;Channel charting;dimensionality reduction;MIMO signal
-  processing;machine learning
 doi: 10.1109/LWC.2021.3109295
 ---
-

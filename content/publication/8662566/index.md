@@ -1,9 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Exploiting the Massive MIMO Channel Structural Properties for Minimization
   of Channel Estimation Error and Training Overhead
-date: '2019-00-01'
-draft: true
-publishDate: '2023-07-18T07:38:47.453199Z'
+subtitle: ''
+summary: ''
 authors:
 - Samer Bazzi
 - Stelios Stefanatos
@@ -13,6 +14,31 @@ authors:
 - Stéphane Paquelet
 - Gerhard Wunder
 - Wen Xu
+tags:
+- Channel estimation;Training;MIMO communication;Antennas;Channel models;Estimation;Covariance
+  matrices;Channel sparsity;correlated fading;channel estimation;training design;compressive
+  sensing;pilot contamination;performance bounds;massive MIMO
+categories: []
+date: '2019-00-01'
+lastmod: 2023-07-21T09:41:50+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:49.726783Z'
 publication_types:
 - '2'
 abstract: Exploiting massive multiple-input-multiple-output (MIMO) gains come at the
@@ -34,12 +60,6 @@ abstract: Exploiting massive multiple-input-multiple-output (MIMO) gains come at
   and reveal important insights on the interplay/tradeoff between training overhead
   and performance that can serve as guidelines for the design of future massive MIMO
   communication systems.
-featured: false
 publication: '*IEEE Access*'
-tags:
-- Channel estimation;Training;MIMO communication;Antennas;Channel models;Estimation;Covariance
-  matrices;Channel sparsity;correlated fading;channel estimation;training design;compressive
-  sensing;pilot contamination;performance bounds;massive MIMO
 doi: 10.1109/ACCESS.2019.2903654
 ---
-

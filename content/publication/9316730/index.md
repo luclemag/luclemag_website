@@ -1,10 +1,35 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Similarity-Based Prediction for Channel Mapping and User Positioning
-date: '2021-05-01'
-draft: true
-publishDate: '2023-07-18T07:38:45.134758Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
+tags:
+- Training;Task analysis;Neural networks;Downlink;Uplink;Base stations;Kernel;Channel
+  mapping;user positioning;neural networks;regression
+categories: []
+date: '2021-05-01'
+lastmod: 2023-07-21T09:41:46+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:45.179966Z'
 publication_types:
 - '2'
 abstract: In a wireless network, gathering information at the base station about mobile
@@ -18,11 +43,6 @@ abstract: In a wireless network, gathering information at the base station about
   It is illustrated on realistic channel data, both for the positioning and channel
   mapping tasks, achieving better results than previously proposed approaches, at
   a lower cost.
-featured: false
 publication: '*IEEE Communications Letters*'
-tags:
-- Training;Task analysis;Neural networks;Downlink;Uplink;Base stations;Kernel;Channel
-  mapping;user positioning;neural networks;regression
 doi: 10.1109/LCOMM.2021.3049849
 ---
-

@@ -1,11 +1,37 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Channel Estimation: Unified View of Optimal Performance and Pilot Sequences'
-date: '2020-00-01'
-draft: true
-publishDate: '2023-07-18T07:38:46.727966Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
 - Stéphane Paquelet
+tags:
+- Channel estimation;Estimation;MIMO communication;Channel models;Covariance matrices;Noise
+  measurement;Parametric statistics;Channel estimation;Cramér-Rao bound;parametric
+  model
+categories: []
+date: '2020-00-01'
+lastmod: 2023-07-21T09:41:49+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:48.336094Z'
 publication_types:
 - '2'
 abstract: Channel estimation is of paramount importance in most communication systems
@@ -27,12 +53,6 @@ abstract: Channel estimation is of paramount importance in most communication sy
   illustrated in a massive MIMO system context. They conveniently allow to retrieve
   well known previous results, but also to exhibit minimal length optimal pilot sequences
   for a new strategy based on a nonlinear physical model.
-featured: false
 publication: '*IEEE Transactions on Signal Processing*'
-tags:
-- Channel estimation;Estimation;MIMO communication;Channel models;Covariance matrices;Noise
-  measurement;Parametric statistics;Channel estimation;Cramér-Rao bound;parametric
-  model
 doi: 10.1109/TSP.2020.3021559
 ---
-

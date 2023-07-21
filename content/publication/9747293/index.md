@@ -1,13 +1,38 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Deep Learning for Location Based Beamforming with Nlos Channels
-date: '2022-05-01'
-draft: true
-publishDate: '2023-07-18T07:38:41.625601Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
 - Taha Yassine
 - Stéphane Paquelet
 - Matthieu Crussière
+tags:
+- Training;Deep learning;Base stations;Array signal processing;Conferences;Neural
+  networks;Symbols
+categories: []
+date: '2022-05-01'
+lastmod: 2023-07-21T09:41:41+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:40.196772Z'
 publication_types:
 - '1'
 abstract: Massive MIMO systems are highly efficient but critically rely on accurate
@@ -23,12 +48,7 @@ abstract: Massive MIMO systems are highly efficient but critically rely on accur
   assessed empirically and yields promising results on realistic synthetic channels.
   As opposed to previously proposed methods, it allows to handle both line-of-sight
   (LOS) and non-line-of-sight (NLOS) channels.
-featured: false
 publication: '*2022 IEEE International Conference on Acoustics, Speech and Signal
   Processing (ICASSP)*'
-tags:
-- Training;Deep learning;Base stations;Array signal processing;Conferences;Neural
-  networks;Symbols
 doi: 10.1109/ICASSP43922.2022.9747293
 ---
-

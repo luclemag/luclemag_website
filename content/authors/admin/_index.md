@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Luc Le Magoarou is an associate professor in the electronics and telecommuniciations (E&T) department at the national institute of applied sciences ([INSA Rennes](https://www.insa-rennes.fr/insa-rennes-2.html)), France. His research interests include signal processing, machine learning and applied mathematics for efficient and frugal wireless communication systems. For a brief introduction to his research activities, see this [talk](https://www.youtube.com/watch?v=-m-QLP-fHQM&t=201s&ab_channel=IETRVaader-ResearchTeam).
+Luc Le Magoarou is an associate professor in the electronics and telecommuniciations (E&T) department at the national institute of applied sciences ([INSA Rennes](https://www.insa-rennes.fr/insa-rennes-2.html)), France. His research interests include signal processing, machine learning and applied mathematics for efficient and frugal wireless communication systems. For a brief introduction to his research activities, see this [talk](https://youtu.be/-m-QLP-fHQM).
 {style="text-align: justify;"}

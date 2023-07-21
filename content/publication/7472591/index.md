@@ -1,11 +1,36 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Are there approximate fast fourier transforms on graphs?
-date: '2016-03-01'
-draft: true
-publishDate: '2023-07-18T07:38:50.386999Z'
+subtitle: ''
+summary: ''
 authors:
 - Luc Le Magoarou
 - Rémi Gribonval
+tags:
+- Sparse matrices;Laplace equations;Signal processing;Optimization;Complexity theory;Fast
+  Fourier transforms;Graphs signal processing;Fast Fourier Transform;matrix factorization
+categories: []
+date: '2016-03-01'
+lastmod: 2023-07-21T09:41:57+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-21T07:41:55.708886Z'
 publication_types:
 - '1'
 abstract: Signal processing on graphs is a recent research domain that seeks to extend
@@ -16,12 +41,7 @@ abstract: Signal processing on graphs is a recent research domain that seeks to 
   in order to compute approximate FFTs on graphs. The approach is first described,
   then validated on several types of classical graphs and finally used for fast filtering,
   showing good potential.
-featured: false
 publication: '*2016 IEEE International Conference on Acoustics, Speech and Signal
   Processing (ICASSP)*'
-tags:
-- Sparse matrices;Laplace equations;Signal processing;Optimization;Complexity theory;Fast
-  Fourier transforms;Graphs signal processing;Fast Fourier Transform;matrix factorization
 doi: 10.1109/ICASSP.2016.7472591
 ---
-
