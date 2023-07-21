@@ -47,4 +47,9 @@ abstract: Channel charting (CC) is an unsupervised learning method allowing to l
   from uplink channels.
 publication: '*2022 56th Asilomar Conference on Signals, Systems, and Computers*'
 doi: 10.1109/IEEECONF56349.2022.10051826
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2212.12340
+
 ---

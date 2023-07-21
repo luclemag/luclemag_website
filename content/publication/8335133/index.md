@@ -44,4 +44,9 @@ abstract: The graph Fourier transform (GFT) is in general dense and requires O(n
   the approximation error distributed along the spectrum.
 publication: '*2017 51st Asilomar Conference on Signals, Systems, and Computers*'
 doi: 10.1109/ACSSC.2017.8335133
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1711.00386
+
 ---

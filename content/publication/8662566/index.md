@@ -62,4 +62,10 @@ abstract: Exploiting massive multiple-input-multiple-output (MIMO) gains come at
   communication systems.
 publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2019.2903654
+
+
+links:
+- name: hal
+  url: https://hal.science/hal-03106636
+
 ---

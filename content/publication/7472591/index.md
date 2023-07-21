@@ -44,4 +44,9 @@ abstract: Signal processing on graphs is a recent research domain that seeks to 
 publication: '*2016 IEEE International Conference on Acoustics, Speech and Signal
   Processing (ICASSP)*'
 doi: 10.1109/ICASSP.2016.7472591
+
+links:
+- name: hal
+  url: https://hal.science/hal-01254108v2/
+
 ---

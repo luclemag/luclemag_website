@@ -37,7 +37,7 @@ projects: []
 publishDate: '2023-07-21T07:42:06.984516Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: 'We analytically derive from first physical principles the functional dependence of wireless channels on the RIS configuration for generic (i.e., potentially complex-scattering) RIS-parametrized radio environments. The wireless channel is a linear input-output relation that depends non-linearly on the RIS configuration because of two independent mechanisms: i) proximity-induced mutual coupling between close-by RIS elements; ii) reverberation-induced long-range coupling between all RIS elements. Mathematically, this "structural" non-linearity originates from the inversion of an "interaction" matrix that can be cast as the sum of an infinite Born series [for i)] or Born-like series [for ii)] whose Kth term physically represents paths involving K bounces between the RIS elements [for i)] or wireless entities [for ii)]. We identify the key physical parameters that determine whether these series can be truncated after the first and second term, respectively, as tacitly done in common cascaded models of RIS-parametrized wireless channels. Numerical results obtained with the physics-compliant PhysFad model and experimental results obtained with a RIS prototype in an anechoic (echo-free) chamber and rich-scattering reverberation chambers corroborate our analysis. Our findings raise doubts about the reliability of existing performance analysis and channel-estimation protocols for cases in which cascaded models poorly describe the physical reality.'
 publication: ''
 links:
 - name: arXiv

@@ -51,4 +51,9 @@ abstract: Massive MIMO systems are highly efficient but critically rely on accur
 publication: '*2022 IEEE International Conference on Acoustics, Speech and Signal
   Processing (ICASSP)*'
 doi: 10.1109/ICASSP43922.2022.9747293
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2201.01386
+
 ---

@@ -45,4 +45,9 @@ abstract: Massive multiple-input multiple-output (MIMO) systems are key technolo
 publication: '*2019 IEEE 20th International Workshop on Signal Processing Advances
   in Wireless Communications (SPAWC)*'
 doi: 10.1109/SPAWC.2019.8815472
+
+links:
+- name: hal
+  url: https://hal.science/hal-01920442v2
+
 ---

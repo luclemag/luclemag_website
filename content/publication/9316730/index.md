@@ -45,4 +45,9 @@ abstract: In a wireless network, gathering information at the base station about
   a lower cost.
 publication: '*IEEE Communications Letters*'
 doi: 10.1109/LCOMM.2021.3049849
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2101.05217
+
 ---

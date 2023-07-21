@@ -45,4 +45,9 @@ abstract: Channel charting is an unsupervised learning task whose objective is t
   achieving better results than previously proposed approaches, at a lower cost.
 publication: '*IEEE Wireless Communications Letters*'
 doi: 10.1109/LWC.2021.3109295
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2104.13184
+
 ---

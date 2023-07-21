@@ -46,4 +46,9 @@ abstract: In this paper, we propose a technique to factorize any matrix into mul
   using simulated magnetoencephalography (MEG) signals.
 publication: '*2015 23rd European Signal Processing Conference (EUSIPCO)*'
 doi: 10.1109/EUSIPCO.2015.7362838
+
+links:
+- name: Researchgate
+  url: https://www.researchgate.net/publication/277871264_FAST_Speeding_up_linear_transforms_for_tractable_inverse_problems
+
 ---

@@ -49,4 +49,8 @@ abstract: In the context of a disturbance composed of a Low Rank (LR) clutter pl
   simulations validate the introduced estimator, and its performance and robustness
   are tested on a Space Time Adaptive Processing (STAP) simulation.
 publication: '*2013 21st European Signal Processing Conference (EUSIPCO)*'
+
+links:
+- name: hal
+  url: https://inria.hal.science/hal-00871219/
 ---

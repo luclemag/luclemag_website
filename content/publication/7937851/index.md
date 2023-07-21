@@ -48,4 +48,9 @@ abstract: The fast Fourier transform is an algorithm of paramount importance in 
   in detail, and then applied to both synthetic and real graphs, showing its potential.
 publication: '*IEEE Transactions on Signal and Information Processing over Networks*'
 doi: 10.1109/TSIPN.2017.2710619
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1612.04542
+
 ---

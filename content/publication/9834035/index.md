@@ -49,4 +49,9 @@ abstract: Channel charting is an unsupervised learning method that aims at mappi
 publication: '*2022 IEEE 23rd International Workshop on Signal Processing Advances
   in Wireless Communication (SPAWC)*'
 doi: 10.1109/SPAWC51304.2022.9834035
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2204.13996
+
 ---

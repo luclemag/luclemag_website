@@ -55,4 +55,9 @@ abstract: Channel estimation is of paramount importance in most communication sy
   for a new strategy based on a nonlinear physical model.
 publication: '*IEEE Transactions on Signal Processing*'
 doi: 10.1109/TSP.2020.3021559
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2002.04481
+
 ---

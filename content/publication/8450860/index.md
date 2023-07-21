@@ -43,4 +43,9 @@ abstract: Channel state information is crucial to achieving the capacity of mult
   computationally efficient estimation algorithms.
 publication: '*2018 IEEE Statistical Signal Processing Workshop (SSP)*'
 doi: 10.1109/SSP.2018.8450860
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1710.08214
+
 ---

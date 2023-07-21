@@ -43,4 +43,9 @@ abstract: This paper deals with the computation of integrals of centred bivariat
   of the literature.
 publication: '*2020 IEEE Symposium on Computers and Communications (ISCC)*'
 doi: 10.1109/ISCC50000.2020.9219581
+
+links:
+- name: hal
+  url: https://hal.science/hal-02555869
+
 ---

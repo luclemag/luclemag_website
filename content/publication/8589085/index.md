@@ -47,4 +47,10 @@ abstract: In a multiple-input-multiple-output (MIMO) communication system, the m
 publication: '*2018 14th International Conference on Wireless and Mobile Computing,
   Networking and Communications (WiMob)*'
 doi: 10.1109/WiMOB.2018.8589085
+
+links:
+- name: hal
+  url: https://univ-rennes.hal.science/hal-02083887v1
+
+
 ---

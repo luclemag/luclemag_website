@@ -34,7 +34,7 @@ projects: []
 publishDate: '2023-07-21T07:42:05.479581Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: 'We study model-based end-to-end learning in the context of integrated sensing and communication (ISAC) under hardware impairments. A monostatic orthogonal frequency-division multiplexing (OFDM) sensing and multiple-input single-output (MISO) communication scenario is considered, incorporating hardware imperfections at the ISAC transceiver antenna array. To enable end-to-end learning of the ISAC transmitter and sensing receiver, we propose a novel differentiable version of the orthogonal matching pursuit (OMP) algorithm that is suitable for multi-target sensing. Based on the differentiable OMP, we devise two model-based parameterization strategies to account for hardware impairments: (i) learning a dictionary of steering vectors for different angles, and (ii) learning the parameterized hardware impairments. For the single-target case, we carry out a comprehensive performance analysis of the proposed model-based learning approaches, a neural-network-based learning approach and a strong baseline consisting of least-squares beamforming, conventional OMP, and maximum-likelihood symbol detection for communication. Results show that learning the parameterized hardware impairments offers higher detection probability, better angle and range estimation accuracy, lower communication symbol error rate (SER), and exhibits the lowest complexity among all learning methods. Lastly, we demonstrate that learning the parameterized hardware impairments is scalable also to multiple targets, revealing significant improvements in terms of ISAC performance over the baseline.'
 publication: ''
 links:
 - name: arXiv

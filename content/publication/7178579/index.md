@@ -45,4 +45,9 @@ abstract: Dictionary learning aims at finding a frame (called dictionary) in whi
 publication: '*2015 IEEE International Conference on Acoustics, Speech and Signal
   Processing (ICASSP)*'
 doi: 10.1109/ICASSP.2015.7178579
+
+links:
+- name: hal
+  url: https://inria.hal.science/hal-01104696v1
+
 ---

@@ -53,4 +53,9 @@ abstract: Massive multiple-input multiple-output (MIMO) communication systems ha
   its environment.
 publication: '*IEEE Transactions on Wireless Communications*'
 doi: 10.1109/TWC.2022.3142737
+
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2008.04088
+
 ---
