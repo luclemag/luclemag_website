@@ -185,14 +185,6 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
   # - block: collection
   #   id: featured
   #   content:
@@ -219,6 +211,17 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: markdown
+    content:
+      title: Students
+      subtitle: ''
+      text: '
+      [Baptiste Chatelier](https://www.baptistechatelier.com/) (PhD 2023-2026): Model-based learning for integrated sensing and communication <br /> 
+      [Taha Yassine](https://tahayassine.me/) (PhD 2020-2023): Model-based learning for channel estimation and charting
+      '
+    design:
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
