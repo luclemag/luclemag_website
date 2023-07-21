@@ -19,7 +19,7 @@ tags:
   matrices;Channel sparsity;correlated fading;channel estimation;training design;compressive
   sensing;pilot contamination;performance bounds;massive MIMO
 categories: []
-date: '2019-00-01'
+date: '2019-10-01'
 lastmod: 2023-07-21T09:41:50+02:00
 featured: false
 draft: false

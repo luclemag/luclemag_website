@@ -12,7 +12,7 @@ tags:
   measurement;Parametric statistics;Channel estimation;Cramér-Rao bound;parametric
   model
 categories: []
-date: '2020-00-01'
+date: '2020-05-01'
 lastmod: 2023-07-21T09:41:49+02:00
 featured: false
 draft: false
