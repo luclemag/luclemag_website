@@ -213,6 +213,7 @@ sections:
       view: citation
 
   - block: markdown
+    id: students
     content:
       title: Students
       subtitle: ''
