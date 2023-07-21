@@ -218,8 +218,11 @@ sections:
       title: Students
       subtitle: ''
       text: '
-      [Baptiste Chatelier](https://www.baptistechatelier.com/) (PhD 2023-2026): Model-based learning for integrated sensing and communication <br /> 
-      [Taha Yassine](https://tahayassine.me/) (PhD 2020-2023): Model-based learning for channel estimation and charting
+      [Kenaz Boa](https://www.linkedin.com/in/kenaz-boa-7557301a4/?originalSubdomain=fr) (PhD 2023-2026): Efficient data processing with realistic physical models for reconfigurable intelligent surfaces <br /> <br />
+
+      [Baptiste Chatelier](https://www.baptistechatelier.com/) (PhD 2023-2026): Model-based learning for integrated sensing and communication <br /> <br />
+
+      [Taha Yassine](https://tahayassine.me/) (PhD 2020-2023): Model-based learning for channel estimation and charting <br /> <br />
       '
     design:
       columns: '2'
