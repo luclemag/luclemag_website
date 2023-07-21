@@ -9,9 +9,7 @@ authors:
 - Rémi Gribonval
 tags:
 - Sparse matrices;Dictionaries;Complexity theory;Transforms;Inverse problems;Approximation
-  algorithms;Optimization;Sparse representations;fast algorithms;dictionary learning;low
-  complexity;image denoising;inverse problems;Sparse representations;fast algorithms;dictionary
-  learning;low complexity;image denoising;inverse problems
+  algorithms;Optimization;Sparse representations;fast algorithms;dictionary learning;
 categories: []
 date: '2016-06-01'
 lastmod: 2023-07-21T09:41:58+02:00
