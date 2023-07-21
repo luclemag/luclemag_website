@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor (Maître de Conférences)
+role: Associate Professor 
 
 # Organizations/Affiliations to show in About widget
 organizations:
