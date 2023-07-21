@@ -1,0 +1,36 @@
+---
+title: 'mpNet: Variable Depth Unfolded Neural Network for Massive MIMO Channel Estimation'
+date: '2022-07-01'
+draft: true
+publishDate: '2023-07-18T07:38:43.588999Z'
+authors:
+- Taha Yassine
+- Luc Le Magoarou
+publication_types:
+- '2'
+abstract: Massive multiple-input multiple-output (MIMO) communication systems have
+  a huge potential both in terms of data rate and energy efficiency, although channel
+  estimation becomes challenging for a large number of antennas. Using a physical
+  model allows to ease the problem by injecting a priori information based on the
+  physics of propagation. However, such a model rests on simplifying assumptions and
+  requires to know precisely the configuration of the system, which is unrealistic
+  in practice. In this paper we present mpNet, an unfolded neural network specifically
+  designed for massive MIMO channel estimation. It is trained online in an unsupervised
+  way. Moreover, mpNet is computationally efficient and automatically adapts its depth
+  to the signal-to-noise ratio (SNR). The method we propose adds flexibility to physical
+  channel models by allowing a base station (BS) to automatically correct its channel
+  estimation algorithm based on incoming data, without the need for a separate offline
+  training phase. It is applied to realistic millimeter wave channels and shows great
+  performance, achieving a channel estimation error almost as low as one would get
+  with a perfectly calibrated system. It also allows incident detection and automatic
+  correction, making the BS resilient and able to automatically adapt to changes in
+  its environment.
+featured: false
+publication: '*IEEE Transactions on Wireless Communications*'
+tags:
+- Channel estimation;Neural networks;Manifolds;Signal to noise ratio;Matching pursuit
+  algorithms;Estimation;Analytical models;MIMO channel estimation;sparse recovery;matching
+  pursuit (MP);neural network;deep unfolding;online learning;unsupervised learning
+doi: 10.1109/TWC.2022.3142737
+---
+
