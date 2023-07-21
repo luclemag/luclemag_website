@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-07-21T07:42:10.124036Z'
 publication_types:
-- '0'
+- '3'
 abstract: 'Integrated sensing and communication (ISAC) is envisioned to be one of the pillars of 6G. However, 6G is also expected to be severely affected by hardware impairments. Under such impairments, standard model-based approaches might fail if they do not capture the underlying reality. To this end, data-driven methods are an alternative to deal with cases where imperfections cannot be easily modeled. In this paper, we propose a model-driven learning architecture for joint single-target multi-input multi-output (MIMO) sensing and multi-input single-output (MISO) communication. We compare it with a standard neural network approach under complexity constraints. Results show that under hardware impairments, both learning methods yield better results than the model-based standard baseline. If complexity constraints are further introduced, model-driven learning outperforms the neural-network-based approach. Model-driven learning also shows better generalization performance for new unseen testing scenarios.'
 publication: ''
 links:
