@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-08-17T13:03:19.794405Z'
 publication_types:
-- '0'
+- '3'
 abstract: The reconfigurability of radio environments with programmable metasurfaces
   is considered a key feature of next-generation wireless networks. Identifying suitable
   metasurface configurations for desired wireless functionalities requires a precise
