@@ -237,15 +237,6 @@ month={Sep.},}
   primaryclass  = {cs.IT},
 }
 
-@Misc{magoarou2022channel,
-  author        = {Luc {Le Magoarou} and Taha Yassine and Stephane Paquelet and Matthieu Crussière},
-  title         = {Channel charting based beamforming},
-  year          = {2022},
-  archiveprefix = {arXiv},
-  eprint        = {2212.12340},
-  primaryclass  = {cs.NI},
-}
-
 @Misc{mateosramos2022modeldriven,
   author        = {José Miguel Mateos-Ramos and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
   title         = {Model-Driven End-to-End Learning for Integrated Sensing and Communication},
@@ -336,6 +327,19 @@ month={Sep.},}
   archiveprefix = {arXiv},
   eprint        = {2308.02349},
   primaryclass  = {eess.SP},
+}
+
+@InProceedings{8589085,
+  author    = {Roy, Matthieu and Paquelet, Stéphane and Le Magoarou, Luc and Crussière, Matthieu},
+  booktitle = {2018 14th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)},
+  title     = {MIMO Channel Hardening for Ray-based Models},
+  year      = {2018},
+  month     = {Oct},
+  pages     = {1-7},
+  abstract  = {In a multiple-input-multiple-output (MIMO) communication system, the multipath fading tends to vanish with increasing number of radio links. This well-known channel hardening phenomenon plays a central role in the design of massive MIMO systems. It is quantified by the coefficient of variation of the channel gain. The aim of this paper is to study channel hardening using a physical channel model in which the influences of propagation rays and antenna array topologies are highlighted. Our analyses and closed form results extend the hardening properties beyond the classical Rayleigh fading models and offer further insights on the relationship with channel characteristics.},
+  doi       = {10.1109/WiMOB.2018.8589085},
+  issn      = {2160-4886},
+  keywords  = {Antenna arrays;MIMO communication;Fading channels;Channel models;Receiving antennas;Topology;channel hardening;physical model;MIMO},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
