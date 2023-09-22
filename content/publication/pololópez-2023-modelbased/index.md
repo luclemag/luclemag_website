@@ -11,7 +11,7 @@ authors:
 - María García-Vigueras
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2023-09-10'
 lastmod: 2023-09-22T11:31:04+02:00
 featured: false
 draft: false
