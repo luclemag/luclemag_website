@@ -352,4 +352,14 @@ month={Sep.},}
   primaryclass  = {cs.AI},
 }
 
+@Misc{pololópez2023modelbased,
+  author        = {Lucas Polo-López and Luc Le Magoarou and Romain Contreres and María García-Vigueras},
+  title         = {Model-based Deep Learning for High-Dimensional Periodic Structures},
+  year          = {2023},
+  abstract      = {This work presents a deep learning surrogate model for the fast simulation of high-dimensional frequency selective surfaces. We consider unit-cells which are built as multiple concatenated stacks of screens and their design requires the control over many geometrical degrees of freedom. Thanks to the introduction of physical insight into the model, it can produce accurate predictions of the S-parameters of a certain structure after training with a reduced dataset.The proposed model is highly versatile and it can be used with any kind of frequency selective surface, based on either perforations or patches of any arbitrary geometry. Numeric examples are presented here for the case of frequency selective surfaces composed of screens with rectangular perforations, showing an excellent agreement between the predicted performance and such obtained with a full-wave simulator.},
+  archiveprefix = {arXiv},
+  eprint        = {2309.12223},
+  primaryclass  = {eess.SP},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
