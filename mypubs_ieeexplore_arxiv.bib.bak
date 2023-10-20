@@ -362,4 +362,13 @@ month={Sep.},}
   primaryclass  = {eess.SP},
 }
 
+@Misc{yassine2023optimizing,
+  author        = {Taha Yassine and Luc Le Magoarou and Matthieu Crussière and Stephane Paquelet},
+  title         = {Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2310.03762},
+  primaryclass  = {eess.SP},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
