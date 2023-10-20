@@ -56,4 +56,5 @@ The project relies on a team of permanent researchers whose skills are complemen
 
 # Job offers
 
-- 6 months internship starting early 2024 (leading to PhD) : [Description](./Internship_MIMO_unfolding.pdf)
+- 6 months internship starting early 2024 (leading to PhD): [Description](./Internship_MIMO_unfolding.pdf)
+- 6 months internship starting early 2024: [Description](./Internship_ML_FSS.pdf)
