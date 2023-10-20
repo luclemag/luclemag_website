@@ -5,7 +5,7 @@ date: 2023-07-17
 type: landing
 
 sections:
-  # - block: hero
+  # - block:  hero
   #   content:
   #     title: Hugo Academic Theme
   #     image:
