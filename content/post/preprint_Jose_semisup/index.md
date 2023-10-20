@@ -1,6 +1,6 @@
 ---
 title: New preprint on integrated sensing and communications
-date: 2023-10-10
+date: 2023-10-20
 math: true
 image:
   placement: 2
