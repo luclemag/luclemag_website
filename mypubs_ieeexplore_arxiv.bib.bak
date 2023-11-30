@@ -371,4 +371,13 @@ month={Sep.},}
   primaryclass  = {eess.SP},
 }
 
+@Misc{mateosramos2023semisupervised,
+  author        = {José Miguel Mateos-Ramos and Baptiste Chatelier and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
+  title         = {Semi-Supervised End-to-End Learning for Integrated Sensing and Communications},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2310.09940},
+  primaryclass  = {eess.SP},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
