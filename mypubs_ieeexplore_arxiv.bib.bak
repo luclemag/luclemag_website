@@ -414,13 +414,23 @@ month={Sep.},}
   doi       = {10.1109/ICC45041.2023.10278825},
 }
 
-@InProceedings{10278889,
+@InProceedings{RamosICC23,
   author    = {Mateos-Ramos, José Miguel and Häger, Christian and Keskin, Musa Furkan and Le Magoarou, Luc and Wymeersch, Henk},
   booktitle = {ICC 2023 - IEEE International Conference on Communications},
   title     = {Model-Driven End-to-End Learning for Integrated Sensing and Communication},
   year      = {2023},
   pages     = {5695-5700},
+  abstract  = {Integrated sensing and communication (ISAC) is envisioned to be one of the pillars of 6G. However, 6G is also expected to be severely affected by hardware impairments. Under such impairments, standard model-based approaches might fail if they do not capture the underlying reality. To this end, data-driven methods are an alternative to deal with cases where imperfections cannot be easily modeled. In this paper, we propose a model-driven learning architecture for joint single-target multi-input multi-output (MIMO) sensing and multi-input single-output (MISO) communication. We compare it with a standard neural network approach under complexity constraints. Results show that under hardware impairments, both learning methods yield better results than the model-based standard baseline. If complexity constraints are further introduced, model-driven learning outperforms the neural-network-based approach. Model-driven learning also shows better generalization performance for new unseen testing scenarios.},
   doi       = {10.1109/ICC45041.2023.10278889},
+}
+
+@Misc{sol2024optimal,
+  author        = {Jérôme Sol and Luc Le Magoarou and Philipp del Hougne},
+  title         = {Optimal blind focusing on perturbation-inducing targets in sub-unitary complex media},
+  year          = {2024},
+  archiveprefix = {arXiv},
+  eprint        = {2401.15415},
+  primaryclass  = {physics.optics},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
