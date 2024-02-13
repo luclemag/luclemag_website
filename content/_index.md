@@ -221,9 +221,7 @@ sections:
       [Cheima Hammami](https://www.linkedin.com/in/cheima-hammami/) (Msc 2024): Model-based deep learning for efficient electromagnetic modelling
       of high-dimensional frequency selective surfaces <br /> <br />
 
-
       [Amira Bedoui](https://www.linkedin.com/in/amira-bedoui/) (Msc 2024): Joint channel estimation and precoder design in hybrid MIMO systems <br /> <br />
-
 
       [Steve Sawadogo](https://www.linkedin.com/in/steve-sawadogo/?originalSubdomain=fr) (PhD 2023-2026): Distributed MIMO beamforming for secure communications <br /> <br />
 
