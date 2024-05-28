@@ -216,13 +216,10 @@ sections:
     id: students
     content:
       title: Students
-      subtitle: ''
+      subtitle:
       text: '
-      [Cheima Hammami](https://www.linkedin.com/in/cheima-hammami/) (Msc 2024): Model-based deep learning for efficient electromagnetic modelling
-      of high-dimensional frequency selective surfaces <br /> <br />
-
-      [Amira Bedoui](https://www.linkedin.com/in/amira-bedoui/) (Msc 2024): Joint channel estimation and precoder design in hybrid MIMO systems <br /> <br />
-
+      ## PhD
+      
       [Steve Sawadogo](https://www.linkedin.com/in/steve-sawadogo/?originalSubdomain=fr) (PhD 2023-2026): Distributed MIMO beamforming for secure communications <br /> <br />
 
       [Kenaz Boa](https://www.linkedin.com/in/kenaz-boa-7557301a4/?originalSubdomain=fr) (PhD 2023-2026): Efficient data processing with realistic physical models for reconfigurable intelligent surfaces <br /> <br />
@@ -230,6 +227,22 @@ sections:
       [Baptiste Chatelier](https://www.baptistechatelier.com/) (PhD 2023-2026): Model-based learning for integrated sensing and communication <br /> <br />
 
       [Taha Yassine](https://tahayassine.me/) (PhD 2020-2024): Model-based learning for channel estimation and charting <br /> <br />
+      
+      ## Msc
+
+      [Imane Assoum](https://www.linkedin.com/in/imane-assoum-b08aa6245/) (Msc 2024): Model-based deep learning for 1D passband signal interpolation <br /> <br />
+
+
+      [Léon Mykolyshyn](https://www.linkedin.com/in/leon-mykolyshyn-a2117a258/?originalSubdomain=fr) (Msc 2024): Model-based deep learning for high-dimensional frequency selective surfaces synthesis <br /> <br />
+
+
+      Etienne Rault (Msc 2024): Deep unfolding for channel estimation under IQ imbalance <br /> <br />
+
+
+      [Cheima Hammami](https://www.linkedin.com/in/cheima-hammami/) (Msc 2024): Model-based deep learning for efficient electromagnetic modelling
+      of high-dimensional frequency selective surfaces <br /> <br />
+
+      [Amira Bedoui](https://www.linkedin.com/in/amira-bedoui/) (Msc 2024): Joint channel estimation and precoder design in hybrid MIMO systems <br /> <br />
       '
     design:
       columns: '2'
