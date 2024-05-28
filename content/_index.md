@@ -216,10 +216,11 @@ sections:
     id: students
     content:
       title: Students
+      
       subtitle:
       text: '
       ## PhD
-      
+
       [Steve Sawadogo](https://www.linkedin.com/in/steve-sawadogo/?originalSubdomain=fr) (PhD 2023-2026): Distributed MIMO beamforming for secure communications <br /> <br />
 
       [Kenaz Boa](https://www.linkedin.com/in/kenaz-boa-7557301a4/?originalSubdomain=fr) (PhD 2023-2026): Efficient data processing with realistic physical models for reconfigurable intelligent surfaces <br /> <br />
