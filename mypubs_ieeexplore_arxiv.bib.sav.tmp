@@ -388,4 +388,58 @@ month={Sep.},}
   year      = {2018},
   month     = {Oct},
   pages     = {1-7},
-  abstract  = {In a multiple-input-multiple-output (MIMO) communication system, the multipath fading tends to vanish with increasing number of radio links. This well-known channel hardening phenomenon plays a central role in the design of massive MIMO systems. It is quantified
+  abstract  = {In a multiple-input-multiple-output (MIMO) communication system, the multipath fading tends to vanish with increasing number of radio links. This well-known channel hardening phenomenon plays a central role in the design of massive MIMO systems. It is quantified by the coefficient of variation of the channel gain. The aim of this paper is to study channel hardening using a physical channel model in which the influences of propagation rays and antenna array topologies are highlighted. Our analyses and closed form results extend the hardening properties beyond the classical Rayleigh fading models and offer further insights on the relationship with channel characteristics.},
+  doi       = {10.1109/WiMOB.2018.8589085},
+  issn      = {2160-4886},
+  keywords  = {Antenna arrays;MIMO communication;Fading channels;Channel models;Receiving antennas;Topology;channel hardening;physical model;MIMO},
+}
+
+@Misc{yassine2023modelbased,
+  author        = {Taha Yassine and Baptiste Chatelier and Vincent Corlay and Matthieu Crussière and Stephane Paquelet and Olav Tirkkonen and Luc Le Magoarou},
+  title         = {Model-based Deep Learning for Beam Prediction based on a Channel Chart},
+  year          = {2023},
+  abstract      = {Channel charting builds a map of the radio environment in an unsupervised way. The obtained chart locations can be seen as low-dimensional compressed versions of channel state information that can be used for a wide variety of applications, including beam prediction. In non-standalone or cell-free systems, chart locations computed at a given base station can be transmitted to several other base stations (possibly operating at different frequency bands) for them to predict which beams to use. This potentially yields a dramatic reduction of the overhead due to channel estimation or beam management, since only the base station performing charting requires channel state information, the others directly predicting the beam from the chart location. In this paper, advanced model-based neural network architectures are proposed for both channel charting and beam prediction. The proposed methods are assessed on realistic synthetic channels, yielding promising results.},
+  archiveprefix = {arXiv},
+  eprint        = {2312.02239},
+  primaryclass  = {cs.IT},
+}
+
+@InProceedings{ChatelierICC23,
+  author    = {Chatelier, Baptiste and Le Magoarou, Luc and Redieteab, Getachew},
+  booktitle = {ICC 2023 - IEEE International Conference on Communications},
+  title     = {Efficient Deep Unfolding for SISO-OFDM Channel Estimation},
+  year      = {2023},
+  pages     = {3450-3455},
+  abstract  = {In modern communication systems, channel state information is of paramount importance to achieve capacity. It is then crucial to accurately estimate the channel. It is possible to perform SISO-OFDM channel estimation using sparse recovery techniques. However, this approach relies on the use of a physical wave propagation model to build a dictionary, which requires perfect knowledge of the system's parameters. In this paper, an unfolded neural network is used to lighten this constraint. Its architecture, based on a sparse recovery algorithm, allows SISO-OFDM channel estimation even if the system's parameters are not perfectly known. Indeed, its unsupervised online learning allows to learn the system's imperfections in order to enhance the estimation performance. The practicality of the proposed method is improved with respect to the state of the art in two aspects: constrained dictionaries are introduced in order to reduce sample complexity and hierarchical search within dictionaries is proposed in order to reduce time complexity. Finally, the performance of the proposed unfolded network is evaluated and compared to several baselines using realistic channel data, showing the great potential of the approach.},
+  doi       = {10.1109/ICC45041.2023.10278825},
+}
+
+@InProceedings{RamosICC23,
+  author    = {Mateos-Ramos, José Miguel and Häger, Christian and Keskin, Musa Furkan and Le Magoarou, Luc and Wymeersch, Henk},
+  booktitle = {ICC 2023 - IEEE International Conference on Communications},
+  title     = {Model-Driven End-to-End Learning for Integrated Sensing and Communication},
+  year      = {2023},
+  pages     = {5695-5700},
+  abstract  = {Integrated sensing and communication (ISAC) is envisioned to be one of the pillars of 6G. However, 6G is also expected to be severely affected by hardware impairments. Under such impairments, standard model-based approaches might fail if they do not capture the underlying reality. To this end, data-driven methods are an alternative to deal with cases where imperfections cannot be easily modeled. In this paper, we propose a model-driven learning architecture for joint single-target multi-input multi-output (MIMO) sensing and multi-input single-output (MISO) communication. We compare it with a standard neural network approach under complexity constraints. Results show that under hardware impairments, both learning methods yield better results than the model-based standard baseline. If complexity constraints are further introduced, model-driven learning outperforms the neural-network-based approach. Model-driven learning also shows better generalization performance for new unseen testing scenarios.},
+  doi       = {10.1109/ICC45041.2023.10278889},
+}
+
+@Misc{sol2024optimal,
+  author        = {Jérôme Sol and Luc Le Magoarou and Philipp del Hougne},
+  title         = {Optimal blind focusing on perturbation-inducing targets in sub-unitary complex media},
+  year          = {2024},
+  abstract      = {The scattering of waves in a complex medium is perturbed by polarizability changes or motion of embedded targets. These perturbations could serve as perfectly non-invasive guidestars for focusing on the targets. In this Letter, we theoretically derive a fundamental difference between these two perturbation types (the change of the scattering matrix is of rank one [two] for target polarizability changes [motion]) and identify accordingly optimal strategies to perfectly focus on the target in both cases. For target motion, at least two displacements are necessary. Furthermore, for the case of dynamic complex media additionally featuring parasitic perturbers, we establish a non-invasive scheme to achieve optimal time-averaged power delivery to a perturbation-inducing target. In all cases, no assumptions about the unitarity of the system's scattering matrix or the size of the perturbation are necessary. We experimentally demonstrate all results in the microwave regime using a strongly sub-unitary lossy chaotic cavity as complex medium. Our experiments highlight that the target's "structural scattering" is irrelevant [must be negligible] in the case of target polarizability changes [motion]. We expect our results to find applications in communications, cybersecurity, bioelectronics, flow-cytometry and self-propelled nano-swimmers.},
+  archiveprefix = {arXiv},
+  eprint        = {2401.15415},
+  primaryclass  = {physics.optics},
+}
+
+@Article{sol2024experimentally,
+  author    = {Sol, J{\'e}r{\^o}me and Prod’homme, Hugo and Le Magoarou, Luc and Del Hougne, Philipp},
+  journal   = {Nature Communications},
+  title     = {Experimentally realized physical-model-based frugal wave control in metasurface-programmable complex media},
+  year      = {2024},
+  number    = {1},
+  pages     = {2841},
+  volume    = {15},
+  abstract  = {Metasurface-programmable radio environments are considered a key ingredient of next-generation wireless networks. Yet, identifying a metasurface configuration that yields a desired wireless functionality in an unknown complex environment was so far only achieved with closed-loop iterative feedback schemes. Here, we introduce open-loop wave control in metasurface-programmable complex media by estimating the parameters of a compact physics-based forward model. Our experiments demonstrate orders-of-magnitude advantages over deep-learning-based digital-twin benchmarks in terms of accuracy, compactness and required calibration examples. Strikingly, our parameter estimation also works without phase information and without providing measurements for all considered scattering coefficients. These unique generalization capabilities of our pure-physics model unlock unforeseen and previously inaccessible frugal wave control protocols that significa
