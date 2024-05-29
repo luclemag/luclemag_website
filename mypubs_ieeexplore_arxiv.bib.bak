@@ -434,7 +434,15 @@ month={Sep.},}
   primaryclass  = {physics.optics},
 }
 
-@Article{,
+@Article{sol2024experimentally,
+  author    = {Sol, J{\'e}r{\^o}me and Prod’homme, Hugo and Le Magoarou, Luc and Del Hougne, Philipp},
+  journal   = {Nature Communications},
+  title     = {Experimentally realized physical-model-based frugal wave control in metasurface-programmable complex media},
+  year      = {2024},
+  number    = {1},
+  pages     = {2841},
+  volume    = {15},
+  publisher = {Nature Publishing Group UK London},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
