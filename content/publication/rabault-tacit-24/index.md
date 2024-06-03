@@ -13,11 +13,7 @@ authors:
 - Nir Shlezinger
 - H. Vincent Poor
 - Philipp del Hougne
-tags:
-- Wireless communication;Scattering;Reconfigurable intelligent surfaces;Transfer functions;Trajectory;Numerical
-  models;Vectors;Reconfigurable intelligent surfaces;end-to-end channel modeling;fading
-  channels;discrete dipole approximation;Born series;structural non-linearity;PhysFad;mutual
-  coupling
+tags: []
 categories: []
 date: '2024-01-10'
 lastmod: 2024-05-29T15:43:47+02:00
