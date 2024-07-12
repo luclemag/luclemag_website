@@ -6,5 +6,6 @@ image:
   placement: 2
 ---
 
-Our preprint entitled [**Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting**]({{< ref "/publication/yassine-2023-optimizing" >}}) has just been accepted to IEEE Transactions on Wireless Communications. Congratulations to [Taha](https://tahayassine.me/) for this solid piece of work!
+Our preprint entitled [**Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting**]({{<  ref "/publication/yassine-optimizing-2024" >}}) has just been accepted to IEEE Transactions on Wireless Communications. Congratulations to [Taha](https://tahayassine.me/) for this solid piece of work!
 
+ref "/publication/yassine-2023-optimizing"
