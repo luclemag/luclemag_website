@@ -38,7 +38,7 @@ abstract: 'Metasurface-programmable radio environments are considered a key ingr
 publication: '*Nature Communications*'
 links:
 - name: ArXiv
-  url: https://arxiv.org/abs/2308.02349S
+  url: https://arxiv.org/abs/2308.02349
 - name: Publisher
   url: https://www.nature.com/articles/s41467-024-46916-2
 
