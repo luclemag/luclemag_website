@@ -1,5 +1,5 @@
 ---
-title: New preprint on blind focusing
+title: Paper accepted to Laser and Photonics Reviews
 date: 2024-09-19
 math: true
 image:
