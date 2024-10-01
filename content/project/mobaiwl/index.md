@@ -56,10 +56,11 @@ The project relies on a team of permanent researchers whose skills are complemen
 
 # Job offers
 
+## 2025
 - 6 months internship starting early 2025 (leading to PhD): [Description](./Internship_interference_rejection.pdf)
 - 6 months internship starting early 2025: [Description](./Internship_ML_FSS_synthesis.pdf)
 
+## 2024
 - **Filled** PhD position starting fall 2024: [Description](./PhD_MIMO_unfolding.pdf)
-
 - **Filled** 6 months internship starting early 2024 (leading to PhD): [Description](./Internship_MIMO_unfolding.pdf)
 - **Filled** 6 months internship starting early 2024: [Description](./Internship_ML_FSS.pdf)
