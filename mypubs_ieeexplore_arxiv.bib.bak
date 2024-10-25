@@ -491,6 +491,24 @@ month={Sep.},}
   url      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202400619},
 }
 
+@Misc{mateosramos2024gainphaseimpairment,
+  author        = {José Miguel Mateos-Ramos and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
+  title         = {Unsupervised Learning for Gain-Phase Impairment Calibration in ISAC Systems},
+  year          = {2024},
+  archiveprefix = {arXiv},
+  eprint        = {2410.04176},
+  primaryclass  = {eess.SP},
+  url           = {https://arxiv.org/abs/2410.04176},
+}
 
+@Misc{hammami2024efficientfrequencyselectivesurface,
+  author        = {Cheima Hammami and Lucas Polo-López and Luc {Le Magoarou}},
+  title         = {Efficient Frequency Selective Surface Analysis via End-to-End Model-Based Learning},
+  year          = {2024},
+  archiveprefix = {arXiv},
+  eprint        = {2410.16760},
+  primaryclass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2410.16760},
+}
 
 @Comment{jabref-meta: databaseType:bibtex;}
