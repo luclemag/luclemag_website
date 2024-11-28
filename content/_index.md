@@ -221,6 +221,16 @@ sections:
       text: '
       ## PhD
 
+      [Nay Klaimi](https://www.linkedin.com/in/nay-klaimi-88212717a/) (PhD 2024-2027): Sparse model-based learning for multi-antenna systems <br /> <br />
+
+      [Cheima Hammami](https://www.linkedin.com/in/cheima-hammami/) (PhD 2024-2027): Arbitrary beam synthesis with compact reconfigurable holographic surfaces <br /> <br />
+
+      [Hamza Mendil](https://www.linkedin.com/in/hamza-mendil-7b21a9261/) (PhD 2024-2027): Signal processing and learning for co-prime antenna arrays <br /> <br />
+
+      [Yara Kafa](https://www.linkedin.com/in/yara-kafa-6583901aa/) (PhD 2024-2027): Energy-efficient resource allocation in cell-free NOMA systems <br /> <br />
+
+      [Hussein Abbas](https://www.linkedin.com/in/hussein-abbass-97b689294/) (PhD 2024-2027): Resource allocation and beamforming in cell-free massive MIMO systems using channel charting <br /> <br />
+
       [Steve Sawadogo](https://www.linkedin.com/in/steve-sawadogo/?originalSubdomain=fr) (PhD 2023-2026): Distributed MIMO beamforming for secure communications <br /> <br />
 
       [Kenaz Boa](https://www.linkedin.com/in/kenaz-boa-7557301a4/?originalSubdomain=fr) (PhD 2023-2026): Efficient data processing with realistic physical models for reconfigurable intelligent surfaces <br /> <br />
