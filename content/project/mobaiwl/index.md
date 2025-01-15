@@ -54,6 +54,14 @@ The project relies on a team of permanent researchers whose skills are complemen
 - [Cédric Herzet](https://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html), ENSAI
 - [Philippe Mary](https://pmary.perso.insa-rennes.fr/), INSA Rennes
 
+# Publications
+
+José Miguel Mateos-Ramos, Christian Häger, Musa Furkan Keskin, Luc Le Magoarou, Henk Wymeersch (2024).  [**Unsupervised Learning for Gain-Phase Impairment Calibration in ISAC Systems**]({{< ref "/publication/mateosramos-2024-gainphaseimpairment" >}}).  ICASSP 2025
+
+Arad Gast, Luc Le Magoarou, Nir Shlezinger (2024). DCD-MUSIC: Deep-Learning-Aided Cascaded Differentiable MUSIC Algorithm for Near-Field Localization of Multiple Sources. ICASSP 2025
+
+Cheima Hammami, Lucas Polo-López, Luc Le Magoarou (2024). [**Efficient Frequency Selective Surface Analysis via End-to-End Model-Based Learning**]({{< ref "/publication/hammami-2024-efficientfrequencyselectivesurface" >}}). EuCAP 2025
+
 # Job offers
 
 ## 2025
