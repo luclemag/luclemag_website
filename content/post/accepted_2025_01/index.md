@@ -1,5 +1,5 @@
 ---
-title: Papers eccepted to ICASSP, EuCAP, ICC and TWC
+title: Papers accepted to ICASSP, EuCAP, ICC and TWC
 date: 2025-01-24
 math: true
 image:
