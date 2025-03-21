@@ -237,6 +237,15 @@ month={Sep.},}
   primaryclass  = {cs.IT},
 }
 
+@Misc{magoarou2022channel,
+  author        = {Luc {Le Magoarou} and Taha Yassine and Stephane Paquelet and Matthieu Crussière},
+  title         = {Channel charting based beamforming},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  eprint        = {2212.12340},
+  primaryclass  = {cs.NI},
+}
+
 @Misc{mateosramos2022modeldriven,
   author        = {José Miguel Mateos-Ramos and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
   title         = {Model-Driven End-to-End Learning for Integrated Sensing and Communication},
@@ -307,221 +316,7 @@ month={Sep.},}
   keywords  = {Antenna arrays;MIMO communication;Fading channels;Channel models;Receiving antennas;Topology;channel hardening;physical model;MIMO},
 }
 
-@Article{le2015text,
-  author    = {Le Magoarou, Luc and Ozerov, Alexey and Duong, Ngoc QK},
-  journal   = {Journal of Signal Processing Systems},
-  title     = {Text-informed audio source separation. example-based approach using non-negative matrix partial co-factorization},
-  year      = {2015},
-  number    = {2},
-  pages     = {117--131},
-  volume    = {79},
-  abstract  = {The so-called informed audio source separation, where the separation process is guided by some auxiliary information, has recently attracted a lot of research interest since classical blind or non-informed approaches often do not lead to satisfactory performances in many practical applications. In this paper we present a novel text-informed framework in which a target speech source can be separated from the background in the mixture using the corresponding textual information. First, given the text, we propose to produce a speech example via either a speech synthesizer or a human. We then use this example to guide source separation and, for that purpose, we introduce a new variant of the non-negative matrix partial co-factorization (NMPCF) model based on a so-called excitation-filter-channel speech model. Such a modeling allows sharing the linguistic information between the speech example and the speech in the mixture. The corresponding multiplicative update (MU) rules are eventually derived for the parameters estimation and several extensions of the model are proposed and investigated. We perform extensive experiments to assess the effectiveness of the proposed approach in terms of source separation and alignment performance.},
-  publisher = {Springer},
-}
-
-@Misc{sol2023experimentally,
-  author        = {Jérôme Sol and Hugo Prod'homme and Luc Le Magoarou and Philipp del Hougne},
-  title         = {Experimentally realized physical-model-based wave control in metasurface-programmable complex media},
-  year          = {2023},
-  abstract      = {The reconfigurability of radio environments with programmable metasurfaces is considered a key feature of next-generation wireless networks. Identifying suitable metasurface configurations for desired wireless functionalities requires a precise setting-specific understanding of the intricate impact of the metasurface configuration on the wireless channels. Yet, to date, the relevant short and long-range correlations between the meta-atoms due to proximity and reverberation are largely ignored rather than precisely captured. Here, we experimentally demonstrate that a compact model derived from first physical principles can precisely predict how wireless channels in complex scattering environments depend on the programmable-metasurface configuration. The model is calibrated using a very small random subset of all possible metasurface configurations and without knowing the setup's geometry. Our approach achieves two orders of magnitude higher precision than a deep learning-based digital-twin benchmark while involving hundred times fewer parameters. Strikingly, when only phaseless calibration data is available, our model can nonetheless retrieve the precise phase relations of the scattering matrix as well as their dependencies on the metasurface configuration. Thereby, we achieve coherent wave control (focusing or enhancing absorption) and phase-shift-keying backscatter communications without ever having measured phase information. Finally, our model is also capable of retrieving the essential properties of scattering coefficients for which no calibration data was ever provided. These unique generalization capabilities of our pure-physics model significantly alleviate the measurement complexity. Our approach is also directly relevant to dynamic metasurface antennas, microwave-based signal processors as well as emerging in situ reconfigurable nanophotonic, optical and room-acoustical systems.},
-  archiveprefix = {arXiv},
-  eprint        = {2308.02349},
-  primaryclass  = {eess.SP},
-}
-
-@InProceedings{8589085,
-  author    = {Roy, Matthieu and Paquelet, Stéphane and Le Magoarou, Luc and Crussière, Matthieu},
-  booktitle = {2018 14th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)},
-  title     = {MIMO Channel Hardening for Ray-based Models},
-  year      = {2018},
-  month     = {Oct},
-  pages     = {1-7},
-  abstract  = {In a multiple-input-multiple-output (MIMO) communication system, the multipath fading tends to vanish with increasing number of radio links. This well-known channel hardening phenomenon plays a central role in the design of massive MIMO systems. It is quantified by the coefficient of variation of the channel gain. The aim of this paper is to study channel hardening using a physical channel model in which the influences of propagation rays and antenna array topologies are highlighted. Our analyses and closed form results extend the hardening properties beyond the classical Rayleigh fading models and offer further insights on the relationship with channel characteristics.},
-  doi       = {10.1109/WiMOB.2018.8589085},
-  issn      = {2160-4886},
-  keywords  = {Antenna arrays;MIMO communication;Fading channels;Channel models;Receiving antennas;Topology;channel hardening;physical model;MIMO},
-}
-
-@Misc{chatelier2023modelbased,
-  author        = {Baptiste Chatelier and Luc Le Magoarou and Vincent Corlay and Matthieu Crussière},
-  title         = {Model-based learning for location-to-channel mapping},
-  year          = {2023},
-  abstract      = {Modern communication systems rely on accurate channel estimation to achieve efficient and reliable transmission of information. As the communication channel response is highly related to the user's location, one can use a neural network to map the user's spatial coordinates to the channel coefficients. However, these latter are rapidly varying as a function of the location, on the order of the wavelength. Classical neural architectures being biased towards learning low frequency functions (spectral bias), such mapping is therefore notably difficult to learn. In order to overcome this limitation, this paper presents a frugal, model-based network that separates the low frequency from the high frequency components of the target mapping function. This yields an hypernetwork architecture where the neural network only learns low frequency sparse coefficients in a dictionary of high frequency components. Simulation results show that the proposed neural network outperforms standard approaches on realistic synthetic data.},
-  archiveprefix = {arXiv},
-  eprint        = {2308.14370},
-  primaryclass  = {cs.AI},
-}
-
-@Misc{pololópez2023modelbased,
-  author        = {Lucas Polo-López and Luc Le Magoarou and Romain Contreres and María García-Vigueras},
-  title         = {Model-based Deep Learning for High-Dimensional Periodic Structures},
-  year          = {2023},
-  abstract      = {This work presents a deep learning surrogate model for the fast simulation of high-dimensional frequency selective surfaces. We consider unit-cells which are built as multiple concatenated stacks of screens and their design requires the control over many geometrical degrees of freedom. Thanks to the introduction of physical insight into the model, it can produce accurate predictions of the S-parameters of a certain structure after training with a reduced dataset.The proposed model is highly versatile and it can be used with any kind of frequency selective surface, based on either perforations or patches of any arbitrary geometry. Numeric examples are presented here for the case of frequency selective surfaces composed of screens with rectangular perforations, showing an excellent agreement between the predicted performance and such obtained with a full-wave simulator.},
-  archiveprefix = {arXiv},
-  eprint        = {2309.12223},
-  primaryclass  = {eess.SP},
-}
-
-@Misc{yassine2023optimizing,
-  author        = {Taha Yassine and Luc Le Magoarou and Matthieu Crussière and Stephane Paquelet},
-  title         = {Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting},
-  year          = {2023},
-  archiveprefix = {arXiv},
-  eprint        = {2310.03762},
-  primaryclass  = {eess.SP},
-}
-
-@Misc{mateosramos2023semisupervised,
-  author        = {José Miguel Mateos-Ramos and Baptiste Chatelier and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
-  title         = {Semi-Supervised End-to-End Learning for Integrated Sensing and Communications},
-  year          = {2023},
-  abstract      = {Integrated sensing and communications (ISAC) is envisioned as one of the key enablers of next-generation wireless systems, offering improved hardware, spectral, and energy efficiencies. In this paper, we consider an ISAC transceiver with an impaired uniform linear array that performs single-target detection and position estimation, and multiple-input single-output communications. A differentiable model-based learning approach is considered, which optimizes both the transmitter and the sensing receiver in an end-to-end manner. An unsupervised loss function that enables impairment compensation without the need for labeled data is proposed. Semi-supervised learning strategies are also proposed, which use a combination of small amounts of labeled data and unlabeled data. Our results show that semi-supervised learning can achieve similar performance to supervised learning with 98.8% less required labeled data.},
-  archiveprefix = {arXiv},
-  eprint        = {2310.09940},
-  primaryclass  = {eess.SP},
-}
-
-@InProceedings{8589085,
-  author    = {Roy, Matthieu and Paquelet, Stéphane and Le Magoarou, Luc and Crussière, Matthieu},
-  booktitle = {2018 14th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)},
-  title     = {MIMO Channel Hardening for Ray-based Models},
-  year      = {2018},
-  month     = {Oct},
-  pages     = {1-7},
-  abstract  = {In a multiple-input-multiple-output (MIMO) communication system, the multipath fading tends to vanish with increasing number of radio links. This well-known channel hardening phenomenon plays a central role in the design of massive MIMO systems. It is quantified by the coefficient of variation of the channel gain. The aim of this paper is to study channel hardening using a physical channel model in which the influences of propagation rays and antenna array topologies are highlighted. Our analyses and closed form results extend the hardening properties beyond the classical Rayleigh fading models and offer further insights on the relationship with channel characteristics.},
-  doi       = {10.1109/WiMOB.2018.8589085},
-  issn      = {2160-4886},
-  keywords  = {Antenna arrays;MIMO communication;Fading channels;Channel models;Receiving antennas;Topology;channel hardening;physical model;MIMO},
-}
-
-@Misc{yassine2023modelbased,
-  author        = {Taha Yassine and Baptiste Chatelier and Vincent Corlay and Matthieu Crussière and Stephane Paquelet and Olav Tirkkonen and Luc Le Magoarou},
-  title         = {Model-based Deep Learning for Beam Prediction based on a Channel Chart},
-  year          = {2023},
-  abstract      = {Channel charting builds a map of the radio environment in an unsupervised way. The obtained chart locations can be seen as low-dimensional compressed versions of channel state information that can be used for a wide variety of applications, including beam prediction. In non-standalone or cell-free systems, chart locations computed at a given base station can be transmitted to several other base stations (possibly operating at different frequency bands) for them to predict which beams to use. This potentially yields a dramatic reduction of the overhead due to channel estimation or beam management, since only the base station performing charting requires channel state information, the others directly predicting the beam from the chart location. In this paper, advanced model-based neural network architectures are proposed for both channel charting and beam prediction. The proposed methods are assessed on realistic synthetic channels, yielding promising results.},
-  archiveprefix = {arXiv},
-  eprint        = {2312.02239},
-  primaryclass  = {cs.IT},
-}
-
-@InProceedings{ChatelierICC23,
-  author    = {Chatelier, Baptiste and Le Magoarou, Luc and Redieteab, Getachew},
-  booktitle = {ICC 2023 - IEEE International Conference on Communications},
-  title     = {Efficient Deep Unfolding for SISO-OFDM Channel Estimation},
-  year      = {2023},
-  pages     = {3450-3455},
-  abstract  = {In modern communication systems, channel state information is of paramount importance to achieve capacity. It is then crucial to accurately estimate the channel. It is possible to perform SISO-OFDM channel estimation using sparse recovery techniques. However, this approach relies on the use of a physical wave propagation model to build a dictionary, which requires perfect knowledge of the system's parameters. In this paper, an unfolded neural network is used to lighten this constraint. Its architecture, based on a sparse recovery algorithm, allows SISO-OFDM channel estimation even if the system's parameters are not perfectly known. Indeed, its unsupervised online learning allows to learn the system's imperfections in order to enhance the estimation performance. The practicality of the proposed method is improved with respect to the state of the art in two aspects: constrained dictionaries are introduced in order to reduce sample complexity and hierarchical search within dictionaries is proposed in order to reduce time complexity. Finally, the performance of the proposed unfolded network is evaluated and compared to several baselines using realistic channel data, showing the great potential of the approach.},
-  doi       = {10.1109/ICC45041.2023.10278825},
-}
-
-@InProceedings{RamosICC23,
-  author    = {Mateos-Ramos, José Miguel and Häger, Christian and Keskin, Musa Furkan and Le Magoarou, Luc and Wymeersch, Henk},
-  booktitle = {ICC 2023 - IEEE International Conference on Communications},
-  title     = {Model-Driven End-to-End Learning for Integrated Sensing and Communication},
-  year      = {2023},
-  pages     = {5695-5700},
-  abstract  = {Integrated sensing and communication (ISAC) is envisioned to be one of the pillars of 6G. However, 6G is also expected to be severely affected by hardware impairments. Under such impairments, standard model-based approaches might fail if they do not capture the underlying reality. To this end, data-driven methods are an alternative to deal with cases where imperfections cannot be easily modeled. In this paper, we propose a model-driven learning architecture for joint single-target multi-input multi-output (MIMO) sensing and multi-input single-output (MISO) communication. We compare it with a standard neural network approach under complexity constraints. Results show that under hardware impairments, both learning methods yield better results than the model-based standard baseline. If complexity constraints are further introduced, model-driven learning outperforms the neural-network-based approach. Model-driven learning also shows better generalization performance for new unseen testing scenarios.},
-  doi       = {10.1109/ICC45041.2023.10278889},
-}
-
-@Misc{sol2024optimal,
-  author        = {Jérôme Sol and Luc Le Magoarou and Philipp del Hougne},
-  title         = {Optimal blind focusing on perturbation-inducing targets in sub-unitary complex media},
-  year          = {2024},
-  abstract      = {The scattering of waves in a complex medium is perturbed by polarizability changes or motion of embedded targets. These perturbations could serve as perfectly non-invasive guidestars for focusing on the targets. In this Letter, we theoretically derive a fundamental difference between these two perturbation types (the change of the scattering matrix is of rank one [two] for target polarizability changes [motion]) and identify accordingly optimal strategies to perfectly focus on the target in both cases. For target motion, at least two displacements are necessary. Furthermore, for the case of dynamic complex media additionally featuring parasitic perturbers, we establish a non-invasive scheme to achieve optimal time-averaged power delivery to a perturbation-inducing target. In all cases, no assumptions about the unitarity of the system's scattering matrix or the size of the perturbation are necessary. We experimentally demonstrate all results in the microwave regime using a strongly sub-unitary lossy chaotic cavity as complex medium. Our experiments highlight that the target's "structural scattering" is irrelevant [must be negligible] in the case of target polarizability changes [motion]. We expect our results to find applications in communications, cybersecurity, bioelectronics, flow-cytometry and self-propelled nano-swimmers.},
-  archiveprefix = {arXiv},
-  eprint        = {2401.15415},
-  primaryclass  = {physics.optics},
-}
-
-@Article{sol2024experimentally,
-  author    = {Sol, J{\'e}r{\^o}me and Prod’homme, Hugo and Le Magoarou, Luc and Del Hougne, Philipp},
-  journal   = {Nature Communications},
-  title     = {Experimentally realized physical-model-based frugal wave control in metasurface-programmable complex media},
-  year      = {2024},
-  number    = {1},
-  pages     = {2841},
-  volume    = {15},
-  abstract  = {Metasurface-programmable radio environments are considered a key ingredient of next-generation wireless networks. Yet, identifying a metasurface configuration that yields a desired wireless functionality in an unknown complex environment was so far only achieved with closed-loop iterative feedback schemes. Here, we introduce open-loop wave control in metasurface-programmable complex media by estimating the parameters of a compact physics-based forward model. Our experiments demonstrate orders-of-magnitude advantages over deep-learning-based digital-twin benchmarks in terms of accuracy, compactness and required calibration examples. Strikingly, our parameter estimation also works without phase information and without providing measurements for all considered scattering coefficients. These unique generalization capabilities of our pure-physics model unlock unforeseen and previously inaccessible frugal wave control protocols that significantly alleviate the measurement complexity. For instance, we achieve coherent wave control (focusing or perfect absorption) and phase-shift-keying backscatter communications in metasurface-programmable complex media with intensity-only measurements. Our approach is also directly relevant to dynamic metasurface antennas, microwave-based signal processors and emerging in situ reconfigurable nanophotonic, optical and room-acoustical systems.},
-  publisher = {Nature Publishing Group UK London},
-}
-
-@Article{Rabault_tacit_24,
-  author   = {Rabault, Antonin and Le Magoarou, Luc and Sol, Jérôme and Alexandropoulos, George C. and Shlezinger, Nir and Poor, H. Vincent and del Hougne, Philipp},
-  journal  = {IEEE Transactions on Wireless Communications},
-  title    = {On the Tacit Linearity Assumption in Common Cascaded Models of RIS-Parametrized Wireless Channels},
-  year     = {2024},
-  pages    = {1-1},
-  doi      = {10.1109/TWC.2024.3367953},
-  keywords = {Wireless communication;Scattering;Reconfigurable intelligent surfaces;Transfer functions;Trajectory;Numerical models;Vectors;Reconfigurable intelligent surfaces;end-to-end channel modeling;fading channels;discrete dipole approximation;Born series;structural non-linearity;PhysFad;mutual coupling},
-}
-
-@Misc{chatelier2024modelbasedlearningmultiantennamultifrequency,
-  author        = {Baptiste Chatelier and Vincent Corlay and Matthieu Crussière and Luc Le Magoarou},
-  title         = {Model-based learning for multi-antenna multi-frequency location-to-channel mapping},
-  year          = {2024},
-  abstract      = {Years of study of the propagation channel showed a close relation between a location and the associated communication channel response. The use of a neural network to learn the location-to-channel mapping can therefore be envisioned. The Implicit Neural Representation (INR) literature showed that classical neural architecture are biased towards learning low-frequency content, making the location-to-channel mapping learning a non-trivial problem. Indeed, it is well known that this mapping is a function rapidly varying with the location, on the order of the wavelength. This paper leverages the model-based machine learning paradigm to derive a problem-specific neural architecture from a propagation channel model. The resulting architecture efficiently overcomes the spectral-bias issue. It only learns low-frequency sparse correction terms activating a dictionary of high-frequency components. The proposed architecture is evaluated against classical INR architectures on realistic synthetic data, showing much better accuracy. Its mapping learning performance is explained based on the approximated channel model, highlighting the explainability of the model-based machine learning paradigm.},
-  archiveprefix = {arXiv},
-  eprint        = {2407.07719},
-  primaryclass  = {cs.IT},
-  url           = {https://arxiv.org/abs/2407.07719},
-}
-
-@Article{Yassine_optimizing_2024,
-  author   = {Yassine, Taha and Magoarou, Luc Le and Crussière, Matthieu and Paquelet, Stéphane},
-  journal  = {IEEE Transactions on Wireless Communications},
-  title    = {Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting},
-  year     = {2024},
-  pages    = {1-1},
-  doi      = {10.1109/TWC.2024.3417892},
-  keywords = {Vectors;Antenna measurements;Antennas;Wireless communication;Euclidean distance;Bandwidth;Task analysis;channel charting;dimensionality reduction;MIMO signal processing;machine learning;physical model},
-}
-
-@Article{SolLPR24,
-  author   = {Sol, Jérôme and Le Magoarou, Luc and del Hougne, Philipp},
-  journal  = {Laser \& Photonics Reviews},
-  title    = {Optimal Blind Focusing on Perturbation-Inducing Targets in Sub-Unitary Complex Media},
-  number   = {n/a},
-  pages    = {2400619},
-  volume   = {n/a},
-  abstract = {Abstract The scattering of waves in a complex medium is perturbed by polarizability changes or displacements of embedded targets. These perturbations can serve as perfectly non-invasive guidestars for focusing on the targets. Here, a fundamental but to-date overlooked difference between these two perturbation types is theoretically derived: the change of the scattering matrix is of rank one [two] for a polarizability change [displacement] of a point-like target; optimal strategies to perfectly focus on the target in both cases are identified accordingly. In particular, in the latter case, optimal focusing requires at least two target displacements. Furthermore, for the case of dynamic complex media additionally featuring parasitic perturbers, a non-invasive scheme to achieve optimal time-averaged power delivery to a perturbation-inducing target is established. In all cases, no assumptions about the unitarity of the system's scattering matrix or the perturbation strength are necessary. All results are experimentally demonstrated in the microwave regime using a strongly sub-unitary lossy chaotic cavity as a complex medium. The experiments highlight that the target's “structural scattering” is irrelevant [must be negligible] in the case of target polarizability changes [displacements]. The presented results are expected to find applications in communications, cybersecurity, wireless bioelectronics, flow-cytometry, and self-propelled nano-swimmers.},
-  doi      = {https://doi.org/10.1002/lpor.202400619},
-  eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/lpor.202400619},
-  keywords = {complex medium, moving target, non-invasive focusing, physical model, wavefront shaping},
-  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202400619},
-}
-
-@Misc{mateosramos2024gainphaseimpairment,
-  author        = {José Miguel Mateos-Ramos and Christian Häger and Musa Furkan Keskin and Luc Le Magoarou and Henk Wymeersch},
-  title         = {Unsupervised Learning for Gain-Phase Impairment Calibration in ISAC Systems},
-  year          = {2024},
-  archiveprefix = {arXiv},
-  eprint        = {2410.04176},
-  primaryclass  = {eess.SP},
-  url           = {https://arxiv.org/abs/2410.04176},
-}
-
-@Misc{hammami2024efficientfrequencyselectivesurface,
-  author        = {Cheima Hammami and Lucas Polo-López and Luc {Le Magoarou}},
-  title         = {Efficient Frequency Selective Surface Analysis via End-to-End Model-Based Learning},
-  year          = {2024},
-  archiveprefix = {arXiv},
-  eprint        = {2410.16760},
-  primaryclass  = {cs.LG},
-  url           = {https://arxiv.org/abs/2410.16760},
-}
-
-@Misc{chatelier2024physicallyparameterizeddifferentiablemusic,
-  author        = {Baptiste Chatelier and José Miguel Mateos-Ramos and Vincent Corlay and Christian Häger and Matthieu Crussière and Henk Wymeersch and Luc Le Magoarou},
-  title         = {Physically Parameterized Differentiable MUSIC for DoA Estimation with Uncalibrated Arrays},
-  year          = {2024},
-  archiveprefix = {arXiv},
-  eprint        = {2411.15144},
-  primaryclass  = {eess.SP},
-  url           = {https://arxiv.org/abs/2411.15144},
-}
-
-@Article{Chatelier2025,
+@Article{JSTSP_baptiste,
   author   = {Chatelier, Baptiste and Corlay, Vincent and Crussière, Matthieu and Le Magoarou, Luc},
   journal  = {IEEE Journal of Selected Topics in Signal Processing},
   title    = {Model-Based Learning for Multi-Antenna Multi-Frequency Location-to-Channel Mapping},
@@ -531,11 +326,19 @@ month={Sep.},}
   keywords = {Computer architecture;Neural networks;Machine learning;Signal processing;Channel estimation;Training;Channel models;Adaptation models;Complexity theory;Channel impulse response;Model-based machine learning;implicit neural representations;spectral bias;sparse representation;MIMO},
 }
 
-@Article{MiguelMateosRamos2025,
+@Article{TWC_jose,
   author   = {Miguel Mateos-Ramos, José and Häger, Christian and Furkan Keskin, Musa and Le Magoarou, Luc and Wymeersch, Henk},
   journal  = {IEEE Transactions on Wireless Communications},
   title    = {Model-Based End-to-End Learning for Multi-Target Integrated Sensing and Communication Under Hardware Impairments},
   year     = {2025},
   number   = {3},
   pages    = {2574-2589},
-  volume   = {24}
+  volume   = {24},
+  doi      = {10.1109/TWC.2024.3522667},
+  keywords = {Hardware;Matching pursuit algorithms;Receivers;Integrated sensing and communication;Vectors;Mathematical models;Estimation;Wireless communication;OFDM;Data models;Hardware impairments;integrated sensing and communication (ISAC);machine learning;model-based learning;orthogonal matching pursuit (OMP)},
+}
+
+@InProceedings{icassp25_jose,
+  author    = {Mateos-Ramos, José Miguel and Häger, Christian and Keskin, Musa Furkan and Le Magoarou, Luc and Wymeersch, Henk},
+  booktitle = {ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title     = {Unsupervi
