@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Benefits of Mutual Coupling in Dynamic Metasurface Antennas for Optimizing
-  Wireless Communications -- Theory and Experimental Validation
+  Wireless Communications, Theory and Experimental Validation
 subtitle: ''
 summary: ''
 authors:
@@ -32,9 +32,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2025-03-21T09:45:59.333287Z'
-publication_types:
+publication_types: 
 - '3'
-abstract: 'Dynamic metasurface antennas (DMAs) are a promising embodiment of next-generation reconfigurable antenna technology to realize base stations and access points with reduced cost and power consumption. A DMA is a thin structure patterned on its front with reconfigurable radiating metamaterial elements (meta-atoms) that are excited by waveguides or cavities. Mutual coupling between the meta-atoms can result in a strongly non-linear dependence of the DMA's radiation pattern on the configuration of its meta-atoms. However, besides the obvious algorithmic challenges of working with physics-compliant DMA models, it remains unclear how mutual coupling in DMAs influences the ability to achieve a desired wireless functionality. In this paper, we provide theoretical, numerical and experimental evidence that strong mutual coupling in DMAs increases the radiation pattern sensitivity to the DMA configuration and thereby boosts the available control over the radiation pattern, improving the ability to tailor the radiation pattern to the requirements of a desired wireless functionality. Counterintuitively, we hence encourage next-generation DMA implementations to enhance (rather than suppress) mutual coupling, in combination with suitable physics-compliant modeling and optimization. We expect the unveiled mechanism by which mutual coupling boosts the radiation pattern control to also apply to other reconfigurable antenna systems based on tunable lumped elements.'
+abstract: 'Dynamic metasurface antennas (DMAs) are a promising embodiment of next-generation reconfigurable antenna technology to realize base stations and access points with reduced cost and power consumption. A DMA is a thin structure patterned on its front with reconfigurable radiating metamaterial elements (meta-atoms) that are excited by waveguides or cavities. Mutual coupling between the meta-atoms can result in a strongly non-linear dependence of the DMAs radiation pattern on the configuration of its meta-atoms. However, besides the obvious algorithmic challenges of working with physics-compliant DMA models, it remains unclear how mutual coupling in DMAs influences the ability to achieve a desired wireless functionality. In this paper, we provide theoretical, numerical and experimental evidence that strong mutual coupling in DMAs increases the radiation pattern sensitivity to the DMA configuration and thereby boosts the available control over the radiation pattern, improving the ability to tailor the radiation pattern to the requirements of a desired wireless functionality. Counterintuitively, we hence encourage next-generation DMA implementations to enhance (rather than suppress) mutual coupling, in combination with suitable physics-compliant modeling and optimization. We expect the unveiled mechanism by which mutual coupling boosts the radiation pattern control to also apply to other reconfigurable antenna systems based on tunable lumped elements.'
 publication: ''
 links:
 - name: arXiv
