@@ -12,7 +12,7 @@ authors:
 - Philipp del Hougne
 tags: []
 categories: []
-date: '2025-02-25'
+date: '2025-02-26'
 lastmod: 2025-03-21T10:46:00+01:00
 featured: false
 draft: false
