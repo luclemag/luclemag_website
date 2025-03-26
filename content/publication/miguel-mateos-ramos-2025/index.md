@@ -13,9 +13,7 @@ authors:
 - Henk Wymeersch
 tags:
 - Hardware;Matching pursuit algorithms;Receivers;Integrated sensing and communication;Vectors;Mathematical
-  models;Estimation;Wireless communication;OFDM;Data models;Hardware impairments;integrated
-  sensing and communication (ISAC);machine learning;model-based learning;orthogonal
-  matching pursuit (OMP)
+  models;
 categories: []
 date: '2025-02-01'
 lastmod: 2025-03-21T10:16:54+01:00

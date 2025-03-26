@@ -11,10 +11,7 @@ authors:
 - Luc Le Magoarou
 - Henk Wymeersch
 tags:
-- Maximum a posteriori estimation;Estimation;Object detection;Signal processing;Integrated
-  sensing and communication;MIMO;Calibration;Frequency division multiplexing;Speech
-  processing;Unsupervised learning;GPIs;Orthogonal frequency-division multiplexing;Model-based
-  learning;Unsupervised learning
+- Model-based learning;Unsupervised learning
 categories: []
 date: '2025-04-01'
 lastmod: 2025-03-21T10:16:55+01:00

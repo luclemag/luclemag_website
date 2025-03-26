@@ -10,9 +10,7 @@ authors:
 - Luc Le Magoarou
 - Nir Shlezinger
 tags:
-- Location awareness;Wireless communication;Machine learning algorithms;Noise;Signal
-  processing algorithms;Pattern classification;Artificial neural networks;Multiple
-  signal classification;Reliability;Speech processing;Near-field;MUSIC;deep learning
+- Location awareness;Wireless communication;Machine learning algorithms;
 categories: []
 date: '2025-04-01'
 lastmod: 2025-03-21T10:16:56+01:00

@@ -12,9 +12,7 @@ authors:
 - Luc Le Magoarou
 tags:
 - Computer architecture;Neural networks;Machine learning;Signal processing;Channel
-  estimation;Training;Channel models;Adaptation models;Complexity theory;Channel impulse
-  response;Model-based machine learning;implicit neural representations;spectral bias;sparse
-  representation;MIMO
+  estimation;
 categories: []
 date: '2025-03-01'
 lastmod: 2025-03-21T10:16:53+01:00
