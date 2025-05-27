@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Model-based learning for joint channel estimationand hybrid MIMO precoding
+title: Model-based learning for joint channel estimation and hybrid MIMO precoding
 subtitle: ''
 summary: ''
 authors:
